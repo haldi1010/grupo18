@@ -4,21 +4,19 @@
   "description": "Redirección de publicidad.",
   "background_color": "#111827",
   "theme_color": "#10b981",
-  "start_url": "index.html",
-  "scope": "index.html",
+  "start_url": "/grupo18/",
+  "scope": "/grupo18/",
   "icons": [
     {
-      "src": "icon1.png",
+      "src": "/grupo18/icon1.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon2.png",
+      "src": "/grupo18/icon2.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "orientation": "portrait",
-  "display": "standalone",
-  "dir": "auto"
+  "display": "standalone"
 }
